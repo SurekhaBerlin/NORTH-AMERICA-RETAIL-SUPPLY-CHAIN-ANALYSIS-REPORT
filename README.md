@@ -35,3 +35,8 @@ Analyzing retail sales performance and profitability.
 Identifying customer trends and product preferences.
 Studying the impact of geographic and temporal factors on sales.
 Developing predictive models for inventory management and demand forecasting.
+
+![image1](https://github.com/user-attachments/assets/89fe344a-6a7e-4362-ac8b-d15992f8769b)
+
+
+![image2](https://github.com/user-attachments/assets/9b9574dd-3bc6-4e3d-91c1-3093b174d4f8)
